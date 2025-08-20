@@ -69,6 +69,7 @@ export const analyzeSingleProduct = async (userProductUrl: string, competitorUrl
     Provide a concise market summary and a detailed reasoning for your price suggestion. The reasoning should clearly reference competitor data points (prices, stock, etc.).
 
     Please provide the full analysis in the requested JSON format.
+    and include all relevant competitor data points. and scrap the information from the web if necessary to get current prices, stock status, and trends.
   `;
 
   try {
