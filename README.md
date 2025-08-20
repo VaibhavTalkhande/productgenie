@@ -4,6 +4,10 @@
 
 **Prerequisites:**  Node.js
 
+## status-
+ desktop version ready
+ web version mvp ready
+ integeration with ai for analysis
 
 1. Install dependencies:
    `npm install`
